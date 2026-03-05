@@ -1,22 +1,22 @@
 # 🧠 AWS Certified Generative AI Developer – Professional (AIP-C01)
 
-Personal study repo for the **AWS Certified Generative AI Developer – Professional** exam.  
+Personal study repo for the **AWS Certified Generative AI Developer – Professional** exam.
 Following the Udemy course by **Frank Kane (Sundog Education) & Stéphane Maarek**.
 
 ---
 
 ## 📊 Progress Tracker
 
-| Domain | Status |
-|--------|--------|
-| Generative AI Fundamentals on AWS | ⬜ Not Started |
-| Amazon Bedrock & Foundation Models | ⬜ Not Started |
-| RAG Pipelines & Knowledge Bases | ⬜ Not Started |
-| Agentic AI (Agents, Flows, Multi-Agent) | ⬜ Not Started |
-| Model Evaluation & Safety | ⬜ Not Started |
-| Data Preparation & Processing | ⬜ Not Started |
+| Domain                                                   | Status         |
+| -------------------------------------------------------- | -------------- |
+| Generative AI Fundamentals on AWS                        | 🟡 In Progress |
+| Amazon Bedrock & Foundation Models                       | ⬜ Not Started |
+| RAG Pipelines & Knowledge Bases                          | ⬜ Not Started |
+| Agentic AI (Agents, Flows, Multi-Agent)                  | ⬜ Not Started |
+| Model Evaluation & Safety                                | ⬜ Not Started |
+| Data Preparation & Processing                            | ⬜ Not Started |
 | Production Orchestration (Step Functions, Lambda, CI/CD) | ⬜ Not Started |
-| Practice Exam (75 Questions) | ⬜ Not Started |
+| Practice Exam (75 Questions)                             | ⬜ Not Started |
 
 > Update statuses to: ⬜ Not Started → 🟡 In Progress → ✅ Done
 
@@ -66,8 +66,8 @@ aws-genai-developer/
 
 ## 🛠️ Key AWS Services Covered
 
-`Amazon Bedrock` `SageMaker` `Bedrock Agents` `Bedrock Flows` `Knowledge Bases`  
-`OpenSearch` `S3 Vectors` `Step Functions` `Lambda` `Glue` `Comprehend` `Textract`  
+`Amazon Bedrock` `SageMaker` `Bedrock Agents` `Bedrock Flows` `Knowledge Bases`
+`OpenSearch` `S3 Vectors` `Step Functions` `Lambda` `Glue` `Comprehend` `Textract`
 `Kinesis` `KMS` `API Gateway` `CDK` `CloudFormation` `CodeBuild` `CodeDeploy`
 
 ---
