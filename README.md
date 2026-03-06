@@ -10,7 +10,7 @@ Following the Udemy course by **Frank Kane (Sundog Education) & Stéphane Maarek
 | Domain                                                   | Status         |
 | -------------------------------------------------------- | -------------- |
 | Generative AI Fundamentals on AWS                        | 🟡 In Progress |
-| Amazon Bedrock & Foundation Models                       | ⬜ Not Started |
+| Amazon Bedrock & Foundation Models                       | 🟡 In Progress |
 | RAG Pipelines & Knowledge Bases                          | ⬜ Not Started |
 | Agentic AI (Agents, Flows, Multi-Agent)                  | ⬜ Not Started |
 | Model Evaluation & Safety                                | ⬜ Not Started |
